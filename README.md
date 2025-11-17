@@ -5,6 +5,16 @@ and interact with various language models in a local environment.
 
 Many new features, tools, and experiments will be added in the future, making this repository a continuously evolving resource for LLM testing and development.
 
+## Technical Introduction to Large Language Models (LLMs)
+
+*Large language models* (LLMs) are sophisticated deep learning architectures, typically based on Transformer networks, trained on massive natural language datasets. 
+With billions of parameters and extensive pre-training on diverse text sources, LLMs can model complex linguistic structures, semantic relationships, and contextual dependencies within language.
+These models support a wide range of advanced tasks, such as contextualized text generation, question answering, code synthesis, and multimodal data processing when extended beyond text. 
+LLMs are fundamental tools in modern AI research, enabling innovative applications in language understanding, information extraction, natural language-driven automation, and knowledge discovery.
+
+Constant progress in scaling, fine-tuning, and domain adaptation methods further improves the performance, versatility, and security of LLMs, placing them 
+at the heart of cutting-edge artificial intelligence systems.
+
 
 ## Detailed Python Program Descriptions
 
