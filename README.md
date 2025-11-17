@@ -1,4 +1,4 @@
-Evolving-LLM-Experiments
+# *Evolving-LLM-Experiments*
 
 This repository serves as an experimentation platform for LLMs—ideal for developers and researchers looking to evaluate, compare, 
 and interact with various language models in a local environment.
